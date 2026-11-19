@@ -1,3 +1,6 @@
+// Exercise 3cls
+
+
 
 let isSunny = true;
 let isWeekend = false;
