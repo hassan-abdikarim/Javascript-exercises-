@@ -22,3 +22,8 @@ if (isSunny && isWeekend) {
 } else {
     console.log("Stay at home!");
 }
+
+
+
+
+
