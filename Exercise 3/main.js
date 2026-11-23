@@ -10,7 +10,7 @@ let isWeekend = false;
 console.log(isSunny && isWeekend); //false
 
 // OR operator
-console.log(isSunny || isWeekend); //true
+console.log(isSunny || isWeekend); //true 
 
 // NOT inervter 
 console.log(!isWeekend); //true
